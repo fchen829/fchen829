@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Felix! 👋
 
+Some of my hobbies include taking photos of events 📸, listening to music 🎧, and running on my free time 🏃‍♂️
+
+- 🌱 I’m currently learning Python and Java
+- 💬 Ask me questions: fc37@njit.edu
+- 😄 Pronouns: he/him
 <!--
 **fchen829/fchen829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
